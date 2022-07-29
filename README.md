@@ -1,1 +1,1 @@
-# wordgame
+# For internal testing only
